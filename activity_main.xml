@@ -1,0 +1,7 @@
+<Button
+    android:id="@+id/openChefBtn"
+    android:text="Open Chef Menu"
+    android:backgroundTint="#4CAF50"
+    android:textColor="#fff"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"/>
